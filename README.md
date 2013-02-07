@@ -1,4 +1,4 @@
-# A Pretty Markdown theme
+# A Pretty Markdown theme for Sublime Text 2, based on Espresso
 
 ![Preview](https://raw.github.com/iest/Espresso-Markdown-theme-for-Sublime-Text-2/master/preview.png)
 
